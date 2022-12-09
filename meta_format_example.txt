@@ -1,0 +1,34 @@
+Sketchfab credits
+"Voxel Fence Pack 01" (https://skfb.ly/6VZTA) by WaxFreeOintment is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+
+Triangles: 106.8k	Vertices: 53k
+
+Sketchfab description
+Hello everyone! I made some fences for my solo dev and I wanted to share with everyone. All fences are 32 units long and at least 5 units wide. The height depends on the fence. I am absolutely awful with Blender, so I just threw them together. Please enjoy! I am in process of making more, please stay tuned for Voxel Fence Pack 02!
+
+published on
+June 25th 2019
+
+tags
+    fence
+    prop
+    pack
+    fences
+    voxels
+    game-asset
+    pixels
+    assetpack
+    game-model
+    freemodel
+    voxelmodel
+    asset
+    game
+    voxel
+    home
+    free
+    voxelart
+    pixel
+    download
+    magicavoxel
+    pixelart
+    fencepost
