@@ -1,8 +1,8 @@
-#Disclaimer
+# Disclaimer
 This collection is currently empty. You can check the collections directly on Sketchfab. The goal will be to bring models from Sketchfab and from Minetest mods here on Github.
 
 
-#Description
+# Description
 This is a collections of 3d assets collected on Sketchfab and made available to download under an open source license by their respective creators.
 
 It has been mirrored on GitHub for easier access and to allow other users to easily share their improvements in any format they wish (for example: rigging and animating in Blender; adding alternative textures).
